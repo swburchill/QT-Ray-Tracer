@@ -1,17 +1,11 @@
 #include "mainwindow.h"
 #include "light.h"
-#include "light.cpp"
 #include "intersection.h"
-#include "intersection.cpp"
 #include "material.h"
-#include "material.cpp"
 #include "plane.h"
-#include "plane.cpp"
 #include "shape.h"
 #include "sphere.h"
-#include "sphere.cpp"
 #include "triangle.h"
-#include "triangle.cpp"
 #include "ui_mainwindow.h"
 
 #include <QFileDialog>
